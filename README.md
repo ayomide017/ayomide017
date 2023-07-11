@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ayomide017
 - 👀 I’m interested in software engineering, cloud computing, cybersecurity 
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on challenging projects 
+- 💞️ I’m looking to collaborate on challenging projects
+- I'm a website developer
 - 📫 How to reach me on email adioayomide02@gmail.com and on LinkedIn http://www.linkedin.com/in/ayomide-adio 
 
 <!---
