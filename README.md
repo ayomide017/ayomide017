@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayomide017
+- 👋 Hi, I’m Ayomide 
 - 👀 I’m interested in software engineering, cloud computing, cybersecurity 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on challenging projects
